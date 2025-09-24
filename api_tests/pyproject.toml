@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "API tests using Python and pytest"
 authors = ["Your Name <you@example.com>"]
 
-
 [tool.poetry.dependencies]
 python = "^3.9"
 pytest = "^8.2.2"
