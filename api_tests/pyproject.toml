@@ -3,6 +3,7 @@ name = "api_tests"
 version = "0.1.0"
 description = "API tests using Python and pytest"
 authors = ["Your Name <you@example.com>"]
+package-mode = false
 
 
 [tool.poetry.dependencies]
